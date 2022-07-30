@@ -1,0 +1,59 @@
+/* BODY SETTİNGS */
+
+body {
+	font-size: 25px;
+}
+
+/* HEADER-NAV SETTİNGS */
+
+header nav {
+	width: 600px;
+	margin: 0 auto;
+	
+}
+
+header nav ul li {
+    width: 163px;
+    list-style: none;
+    display: block;
+    margin-right: 20px;
+	float: left;
+	text-align: center;
+}
+
+header nav ul li a {
+	text-decoration: none;
+	color: #555;
+}
+
+/* SECTİON-ARTİCLE SETTİNGS */
+
+section {
+    width: 1200px;
+	margin: 0 auto;
+}
+
+article {
+	text-align: center;
+}
+
+hr {
+
+
+}
+
+/* FOOTER SETTİNGS */
+
+footer nav {
+	width: 1200px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+/* DENEME - YANILMA */
+
+h2 {
+	margin: 10px 0;
+	padding: 0;
+
+}
